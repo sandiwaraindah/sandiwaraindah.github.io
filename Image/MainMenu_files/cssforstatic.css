@@ -1,0 +1,270 @@
+﻿.logoimage {
+	margin-right: 3%;
+	
+}
+.bg {
+  background: url(Image/sulaiwesi.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.footer {
+  width: 100%;
+  background-color:  #022800;
+  color: white;
+
+}
+.table1{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	color: 	#90EE90;
+	
+	}
+.footertextheader{
+	text-align: left;
+	
+}
+.table1 td{
+padding-bottom: 10px;
+	padding-top: 10px;
+	padding-left:40px;
+
+}
+.table1 th{
+	font-size:xx-large;
+
+	padding-bottom: 10px;
+	padding-top: 10px;
+	padding-left: 43px;
+
+}
+.tdQL{
+	width:20%;
+	
+}
+.thQL{
+	text-align: left;
+	padding-left: 0px;
+}
+.copyright{
+	margin-left:13%;
+	margin-right:15%
+}
+
+.tbcopyright{
+	border-style: solid hidden hidden hidden;
+	border-color: #90EE90;
+}
+.footertextheader2{
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+
+}
+
+.table2{
+	color: 	#90EE90;
+
+	}
+	
+.jumbotron {
+ 	background-image: url(image/home3.png);
+ 	background-position: center;
+ 	background-repeat: no-repeat;
+ 	background-size: cover;
+}
+
+.container1{
+	width: 80%;
+	color: white;
+	height: auto;
+	margin-bottom: 10px;
+	margin-left:10px;
+	text-align:justify;
+	
+}
+.titleMainMenu{
+	font-size:30px;
+	
+}
+.simpleIntro{
+	font-size:18px;
+	padding-top: 10px;
+}
+.footerpadding{
+	padding-left:0px;
+}
+.readmore{
+	margin-top: 10px;
+	border-style: solid;
+	border-color: white;
+	border-radius:3px;
+	font-size:20px;
+	width:240px;
+	text-align:center;
+}
+.image1{
+	width:100%;
+	height:100%;
+	border-radius:3px;
+}
+.square{
+	width:90%;
+
+}
+.square:after {
+    content: "";
+    display: block;
+}
+.mainMenuRow1{
+	color:white;
+	padding-top:15px;
+	padding-bottom:15px;
+}
+.container3{
+background-color:#0E170F;
+
+margin-top:30px;
+margin-bottom:30px;
+padding-top:40px;
+padding-bottom:40px;
+padding-left:40px;
+border-radius:0px 5px 5px 0px;
+}
+.container4{
+background-color:#0E170F;
+margin-top:30px;
+margin-bottom:30px;
+padding-top:40px;
+padding-bottom:40px;
+padding-left:40px;
+border-radius:5px 0px 0px 5px;
+}
+
+.product4{
+	margin-bottom: 15px;
+
+}
+.product1{
+	margin-right:40px ;
+}
+.bigimage{
+	border-bottom-width:8px;
+	border-bottom-color: #0E170F;
+	border-bottom-style:solid;
+
+}
+.map1{
+	width:400px;
+	height:400px;
+}
+.product5{
+	margin-top: 60px;
+	font-size: 30px;
+	margin-bottom: 10px;
+}
+.maincontact{
+	margin-top: 60px;
+	padding-left:60px;
+	width: 15%;
+	
+}
+
+.gmap_canvas {overflow:hidden;background:none!important;height:400px;width:400px;}
+.mapouter{position:relative;text-align:right;height:400px;width:400px;}
+.container5{
+padding-top:30px;
+padding-left:40px;
+padding-bottom:30px;
+background-color:#0E170F;
+color:white;
+}
+@media (min-width:576px){
+	.container1{
+	width: 35%;
+	margin-bottom: 30px;
+	margin-left:40px;
+	}
+	.titleMainMenu{
+	font-size:40px;
+	}
+	.footerpadding {
+ 	padding-left:12%;
+	}
+	.readmore{
+	margin-top: 190px;
+	font-size:30px
+	}
+	.simpleIntro{
+	padding-top: 15px;
+	}
+	.product4{
+	margin-top: 60px;
+	font-size:30px;
+	margin-bottom: 10px;
+
+	}
+	.product1{
+	margin-right:0px ;
+}
+	.product5{
+	margin-top: 340px;
+	font-size: 30px;
+	margin-bottom: 10px;
+
+}
+
+
+.map1{
+	width:600px;
+	height:500px;
+}
+.gmap_canvas {
+	width:600px;
+	height:500px;
+
+}
+.mapouter{
+		width:600px;
+	height:500px;
+
+}
+}
+@media (min-width:1000px){
+	
+.map1{
+	width:780px;
+	height:540px;
+}
+.gmap_canvas {
+	width:780px;
+	height:540px;
+
+}
+.mapouter{
+	width:780px;
+	height:540px;
+
+}
+@media (min-width:1700px){
+	
+.map1{
+	width:900px;
+	height:700px;
+}
+.gmap_canvas {
+	width:900px;
+	height:700px;
+
+}
+.mapouter{
+	width:900px;
+	height:700px;
+
+}
+
+
+}
+
+

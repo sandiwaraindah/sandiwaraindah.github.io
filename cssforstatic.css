@@ -1,0 +1,1005 @@
+﻿.logoimage {
+	margin-right: 3%;
+	
+}
+.bg {
+  background: url(Image/sulamesi2.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.footer {
+  width: 100%;
+  background-color:  #022800;
+  color: white;
+
+}
+.table1{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	color:rgba(255,255,255,.5);
+	
+	}
+.nodesign{
+text-decoration:none;
+color:rgba(255,255,255,.5);
+}
+.nodesign:hover{
+	color:rgba(255,255,255,1);
+	text-decoration:none;
+
+}
+.footertextheader{
+	text-align: left;
+	
+}
+.table1 td{
+padding-bottom: 10px;
+	padding-top: 10px;
+	padding-left:40px;
+
+}
+.table1 th{
+	font-size:xx-large;
+
+	padding-bottom: 10px;
+	padding-top: 10px;
+	padding-left: 43px;
+
+}
+.tdQL{
+	width:20%;
+	
+}
+.thQL{
+	text-align: left;
+	padding-left: 0px;
+}
+.copyright{
+	margin-left:13%;
+	margin-right:15%
+}
+
+.tbcopyright{
+	border-style: solid hidden hidden hidden;
+	border-color: rgba(255,255,255,.5);
+}
+.footertextheader2{
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+
+}
+
+.table2{
+	color: 	rgba(255,255,255,.5);
+
+	}
+	
+.jumbotron {
+ 	
+ 	background-position: center;
+ 	background-repeat: no-repeat;
+	
+}
+
+.container1{
+	width: 80%;
+	color: white;
+	height: auto;
+	margin-bottom: 10px;
+	margin-left:10px;
+	text-align:justify;
+	
+}
+.container7{
+	width: 80%;
+	color: white;
+	height: auto;
+	margin-left:20px;
+	text-align:justify;
+	background-color:rgba(0,0,0,.5);
+}
+
+.titleMainMenu{
+	font-size:30px;
+	
+}
+.simpleIntro{
+	font-size:18px;
+	padding-top: 10px;
+}
+.footerpadding{
+	padding-left:0px;
+}
+.readmore{
+	margin-top: 10px;
+	border-style: solid;
+	border-color: white;
+	border-radius:3px;
+	font-size:18px;
+	width:200px;
+	text-align:center;
+}
+.image1{
+	width:100%;
+	height:100%;
+	border-radius:3px;
+}
+.square{
+	width:90%;
+}
+.square2{
+	width:100%;
+	margin-top:auto;
+	margin-left:auto;
+}
+.square:after {
+    content: "";
+    display: block;
+}
+.square2:after {
+    content: "";
+    display: block;
+}
+
+.mainMenuRow1{
+	color:white;
+	padding-top:15px;
+	padding-bottom:15px;
+}
+.container3{
+background-color:#0E170F;
+margin-top:30px;
+margin-bottom:30px;
+padding-top:40px;
+padding-bottom:40px;
+padding-left:40px;
+border-radius:0px 5px 5px 0px;
+}
+.container4{
+background-color:#0E170F;
+margin-top:30px;
+margin-bottom:30px;
+padding-top:40px;
+padding-bottom:40px;
+padding-left:40px;
+border-radius:5px 0px 0px 5px;
+}
+
+.product4{
+	margin-bottom: 15px;
+
+}
+.product1{
+	margin-right:40px ;
+}
+.bigimage{
+	border-bottom-width:8px;
+	border-bottom-color: #0E170F;
+	border-bottom-style:solid;
+	background-image: url(image/home3.png);
+	background-size: cover;
+}
+.bigimage2{
+	border-bottom-width:8px;
+	border-bottom-color: #0E170F;
+	border-bottom-style:solid;
+	background-image: url(image/aboutus.png);
+	background-size: cover;
+}
+.bigimage3{
+	border-bottom-width:8px;
+	border-bottom-color: #0E170F;
+	border-bottom-style:solid;
+	background-image: url(image/productjumbotron2.png);
+	background-size: cover;
+	background-position: center;
+ 	background-repeat: no-repeat;
+	margin-bottom:30px;
+}
+.bigimage4{
+	border-bottom-width:8px;
+	border-bottom-color: #0E170F;
+	border-bottom-style:solid;
+	background-image: url(image/Servicesjumbotron3.png);
+	background-size: cover;
+	background-position: center;
+ 	background-repeat: no-repeat;
+	margin-bottom:30px;
+}
+
+.map1{
+	width:400px;
+	height:400px;
+}
+.map2{
+	width:400px;
+	height:400px;
+}
+
+.product5{
+	margin-top: 60px;
+	font-size: 18px;
+	margin-bottom: 10px;
+}
+.maincontact{
+	margin-top: 60px;
+	padding-left:20px;
+	
+}
+.container6{
+	width: 100%;
+
+}
+.container8{
+	width: 80%;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.gmap_canvas {overflow:hidden;background:none!important;height:400px;width:400px;}
+.mapouter{position:relative;text-align:right;height:400px;width:400px;}
+.gmap_canvas2 {overflow:hidden;background:none!important;height:400px;width:400px;}
+.mapouter2{position:relative;text-align:right;height:400px;width:400px; margin-left:auto; margin-right:auto;}
+
+.container5{
+padding-top:30px;
+padding-left:40px;
+padding-bottom:30px;
+background-color:#0E170F;
+color:white;
+}
+
+.WCU{
+	color:white;
+	font-size:50px;
+	width:100%;
+	text-align:center;
+	font-weight: bold;
+	padding-top:120px;
+	padding-bottom:105px;
+}
+.WCU2{
+	color:white;
+	font-size:50px;
+	width:100%;
+	text-align:center;
+	font-weight: bold;
+	padding-top:20px;
+	padding-bottom:20px;
+	font-family: Georgia, serif;
+
+}
+
+.titlereason{
+	text-align:center;
+	font-weight: bold;
+	width:100%;
+	font-size:30px;
+	text-align:center;
+	color:white;
+		padding-bottom:30px;
+}
+.icons{
+	display: block;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:25px;
+}
+.whychooseuse1{
+	text-align:center;
+	color:white;
+	font-size:20px;
+	margin-bottom:200px;
+	
+}
+.keyword{
+	font-weight: bold;
+}
+.horizontalline{
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+  width:80%;
+}
+.horizontalline2{
+  display: block;
+  margin-top: 0.1em;
+  margin-bottom: 0.1em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+  width:80%;
+}
+.horizontalline3{
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 1em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+  width:80%;
+}
+
+.w3-display-left{
+	position:absolute;
+	top:50%;
+	left:0%;
+	transform:translate(0%,-50%);
+	-ms-transform:translate(-0%,-50%)
+}
+.w3-display-right{
+	position:absolute;
+	top:50%;
+	right:0%;
+	transform:translate(0%,-50%);
+	-ms-transform:translate(0%,-50%)
+}
+.mySlides{
+	display:none;
+}
+.w3-button{
+border:none;
+display:inline-block;
+padding:8px 16px;
+vertical-align:middle;
+overflow:hidden;
+text-decoration:none;
+color:inherit;
+background-color:inherit;
+text-align:center;
+cursor:pointer;
+white-space:nowrap;
+}
+.w3-button:hover{color:white!important;
+background-color:#0E170F!important;
+}
+.w3-black,.w3-hover-black:hover{
+color:#0E170F!important;
+background-color:white!important
+}
+.fixheight{
+	height:480px;
+}
+.littlepadding{
+	padding-right:30px;
+}
+.container12{
+	height:auto;
+	width:auto;
+	padding-top:180px;
+	font-size:60px;
+
+}
+.goolink{
+	text-align:left;
+}
+.signboard{
+	font-family: Georgia, serif;
+}
+.container13 {
+	width:100%;
+	height:auto;
+	position: relative;
+}
+
+.overlay {
+  position: absolute; 
+  bottom: 0; 
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5); /* Black see-through */
+  color: #f1f1f1; 
+  width: 100%;
+  transition: .5s ease;
+  opacity:0;
+  color: white;
+  font-size: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.container13:hover .overlay {
+  opacity: 1;
+}
+/*for timeline */
+* {
+  box-sizing: border-box;
+}
+.container10{
+	height:auto;
+	width:auto;
+	padding-top:160px;
+	font-size:60px;
+
+}
+.productTitle{
+	color:white;
+	text-align:center;
+	font-weight:bold;
+	margin-bottom:50px;
+	font-family: Georgia, serif;
+}
+.productTitle2{
+	color:white;
+	text-align:center;
+	font-weight:bold;
+	margin-bottom:50px;
+	font-family: Georgia, serif;
+}
+
+.container11{
+	background-color:#0E170F;
+	margin-bottom:30px;
+	padding-top:40px;
+	padding-bottom:40px;
+	padding-left:40px;
+	border-radius:0px 5px 5px 0px;
+	color:white;
+	text-align:justify;
+}
+
+.dotalign{
+	margin-bottom:40px;
+}
+/* The actual timeline (the vertical ruler) */
+.timeline {
+  position: relative;
+  max-width: 1200px;
+  margin: 0 auto;
+  margin-bottom:30px;
+}
+
+/* The actual timeline (the vertical ruler) */
+.timeline::after {
+  content: '';
+  position: absolute;
+  width: 6px;
+  background-color: white;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  margin-left: -3px;
+}
+
+/* Container around content */
+.container9 {
+  padding: 10px 40px;
+  position: relative;
+  background-color: inherit;
+  width: 50%;
+}
+
+/* The circles on the timeline */
+.container9::after {
+  content: '';
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  right: -17px;
+  background-color: white;
+  border: 4px solid #228B22;
+  top: 15px;
+  border-radius: 50%;
+  z-index: 1;
+}
+
+/* Place the container to the left */
+.left {
+  left: 0;
+}
+
+/* Place the container to the right */
+.right {
+  left: 50%;
+}
+
+/* Add arrows to the left container (pointing right) */
+.left::before {
+  content: " ";
+  height: 0;
+  position: absolute;
+  top: 22px;
+  width: 0;
+  z-index: 1;
+  right: 30px;
+  border: medium solid white;
+  border-width: 10px 0 10px 10px;
+  border-color: transparent transparent transparent white;
+}
+
+/* Add arrows to the right container (pointing left) */
+.right::before {
+  content: " ";
+  height: 0;
+  position: absolute;
+  top: 22px;
+  width: 0;
+  z-index: 1;
+  left: 30px;
+  border: medium solid white;
+  border-width: 10px 10px 10px 0;
+  border-color: transparent white transparent transparent;
+}
+
+/* Fix the circle for containers on the right side */
+.right::after {
+  left: -16px;
+}
+
+/* The actual content */
+.content {
+  padding: 20px 30px;
+  background-color: white;
+  position: relative;
+  border-radius: 6px;
+}
+/* Style the Image Used to Trigger the Modal */
+#myImg {
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s;
+  margin-bottom:20px;
+}
+
+#myImg:hover {opacity: 0.7;}
+
+#myImg2 {
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+#myImg2:hover {opacity: 0.7;}
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+}
+
+/* Modal Content (Image) */
+.modal-content {
+  margin: auto;
+  display: block;
+  width: 80%;
+  max-width: 870px;
+}
+
+/* Caption of Modal Image (Image Text) - Same Width as the Image */
+#caption {
+  margin: auto;
+  display: block;
+  width: 80%;
+  max-width: 700px;
+  text-align: center;
+  color: #ccc;
+  padding: 10px 0;
+  height: auto;
+}
+#caption2 {
+  margin: auto;
+  display: block;
+  width: 80%;
+  max-width: 700px;
+  text-align: center;
+  color: #ccc;
+  padding: 10px 0;
+  height: auto;
+}
+
+/* Add Animation - Zoom in the Modal */
+.modal-content, #caption {
+  animation-name: zoom;
+  animation-duration: 0.6s;
+}
+.modal-content, #caption2 {
+  animation-name: zoom;
+  animation-duration: 0.6s;
+}
+.row1 {
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE10 */
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+.imgstyle{
+  width:100%;
+}
+/* Create four equal columns that sits next to each other */
+.column1 {
+  -ms-flex: 100%; /* IE10 */
+  flex: 100%;
+  max-width: 100%;
+  padding: 0 8px;
+}
+
+.column1 img {
+  margin-top: 8px;
+  margin-bottom: 8px;
+  vertical-align: middle;
+  width: 100%;
+}
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(255,255,255,0.8);
+}
+
+/* Caption text */
+.text {
+  color: #ffffff;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active1, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade1 {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+
+@keyframes zoom {
+  from {transform:scale(0)}
+  to {transform:scale(1)}
+}
+
+/* The Close Button */
+.close {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: #f1f1f1;
+  font-size: 40px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.close:hover,
+.close:focus {
+  color: #bbb;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* 100% Image Width on Smaller Screens */
+@media only screen and (max-width: 700px){
+  .modal-content {
+    width: 100%;
+  }
+}
+
+/* Media queries - Responsive timeline on screens less than 600px wide */
+@media screen and (max-width: 600px) {
+/* Place the timelime to the left */
+  .timeline::after {
+    left: 31px;
+  }
+
+
+/* Full-width containers */
+  .container9 {
+    width: 100%;
+    padding-left: 70px;
+    padding-right: 25px;
+  }
+
+/* Make sure that all arrows are pointing leftwards */
+  .container9::before {
+    left: 60px;
+    border: medium solid white;
+    border-width: 10px 10px 10px 0;
+    border-color: transparent white transparent transparent;
+  }
+
+/* Make sure all circles are at the same spot */
+  .left::after, .right::after {
+    left: 15px;
+  }
+
+/* Make all right containers behave like the left ones */
+  .right {
+    left: 0%;
+  }
+  .goolink{
+	text-align: center;
+  }
+}
+@media (min-width:576px){
+	.container1{
+	width: 35%;
+	margin-bottom: 30px;
+	margin-left:40px;
+	}
+	.container7{
+	width: 35%;
+	margin-bottom: 200px;
+	margin-top: 200px;
+	margin-left:63%;
+		background-color:rgba(0,0,0,0);
+	}
+	.titleMainMenu{
+	font-size:40px;
+	}
+	.footerpadding {
+ 	padding-left:12%;
+	}
+	.readmore{
+	margin-top: 190px;
+	font-size:18px
+	}
+	.simpleIntro{
+	padding-top: 15px;
+	}
+	.product4{
+	margin-top: 60px;
+	margin-bottom: 10px;
+
+	}
+	.product1{
+	margin-right:0px ;
+}
+	.product5{
+	margin-top: 260px;
+}
+	.container6{
+	width: 100%;
+
+}
+.maincontact{
+	padding-left:60px;
+	
+}
+
+.map1{
+	width:600px;
+	height:500px;
+}
+.map2{
+	width:100%;
+	height:500px;
+}
+
+.gmap_canvas {
+	width:600px;
+	height:500px;
+
+}
+.mapouter{
+	width:600px;
+	height:500px;
+
+}
+.gmap_canvas2 {
+	width:100%;
+	height:500px;
+
+}
+.mapouter2{
+	width:100%;
+	height:500px;
+
+}
+
+.product5{
+	margin-top: 100px;
+}
+.bigimage2{
+	border-bottom-width:8px;
+	border-bottom-color: #0E170F;
+	border-bottom-style:solid;
+	background-image: url(image/aboutus.png);
+}
+
+.container10{
+	padding-top:280px;
+	font-size:90px;
+}
+.container12{
+	padding-top:260px;
+	font-size:120px;
+}
+
+.fixheight{
+	height:690px;
+}
+	.column1 {
+    -ms-flex: 50%;
+    flex: 50%;
+    max-width: 50%;
+  }
+
+
+}
+@media (min-width:1000px){
+	
+.map1{
+	width:780px;
+	height:540px;
+}
+.map2{
+	width:100%;
+	height:650px;
+}
+
+.gmap_canvas {
+	width:780px;
+	height:540px;
+
+}
+.gmap_canvas2 {
+	width:100%;
+	height:650px;
+
+}
+.mapouter2{
+	width:100%;
+	height:650px;
+
+}
+
+.mapouter{
+	width:780px;
+	height:540px;
+
+}
+	.product5{
+	margin-top: 270px;
+}
+
+.container10{
+	padding-top:370px;
+}
+.fixheight{
+	height:330px;
+}
+.container12{
+	padding-top:330px;
+}
+	.column1 {
+    -ms-flex: 25%;
+    flex: 25%;
+    max-width: 25%;
+  }
+
+}
+
+@media (min-width:1700px){
+	
+.map1{
+	width:900px;
+	height:700px;
+}
+.gmap_canvas {
+	width:900px;
+	height:700px;
+
+}
+.mapouter{
+	width:900px;
+	height:700px;
+
+}
+.map2{
+	width:100%;
+	height:700px;
+}
+.gmap_canvas2 {
+	width:100%;
+	height:700px;
+
+}
+.mapouter2{
+	width:100%;
+	height:700px;
+
+}
+
+	.product5{
+	margin-top: 370px;
+}
+
+.container10{
+	padding-top:570px;
+}
+.fixheight{
+	height:370px;
+}
+.container12{
+	padding-top:440px;
+}
+
+}
+
