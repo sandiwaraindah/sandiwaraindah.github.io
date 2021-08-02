@@ -61,7 +61,40 @@
 		  <img class="mySlides" src="image/woodenTable.jpeg" style="width:100%">
   		  <img class="mySlides" src="image/woodentable2.jpg" style="width:100%">
   
-  		<button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+  		<button class="w3-button w3-black w3-display-left" onclick="plusDivs(0)">&#10094;</button>
+  		<button class="w3-button w3-black w3-display-right" onclick="plusDivs(0)">&#10095;</button>		</div>
+		</div>
+		<div class="col-lg-4">
+		<div class="titleMainMenu product1">
+		Bandsaw
+		</div>
+		<div class="simpleIntro product1">
+		Bandsaw is a process of making wood plank from different types of wood trunk such as, Keranji, Merbau, White Meranti, Yellow Meranti, Dark red Meranti, Light Red Meranti, Kapur, Kasai, Kempas, Red Balau, 
+		Balau, Keruing and other
+		</div>
+		</div>
+		<div class="col-lg-4">
+		<div class="titleMainMenu product1">
+		Price range
+		</div>
+		<div class="simpleIntro product1">
+		Depends on the wood type, size and quantity, feel free to contact our staff for more information.	
+		</div>
+		</div>
+		</div>
+
+		</div>
+		</div>
+</div>
+<div class="row justify-content-center">
+		<div class="col-md-8 product0" >
+		<div class="container11">
+		<div class="row littlepadding">		<div class="col-lg-4 fixheight" >
+		<div class="square2">
+		  <img class="mySlides" src="image/woodenTable.jpeg" style="width:100%">
+  		  <img class="mySlides" src="image/woodentable2.jpg" style="width:100%">
+  
+  		<button class="w3-button w3-black w3-display-left" onclick="plusDivs(1)">&#10094;</button>
   		<button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>		</div>
 		</div>
 		<div class="col-lg-4">
@@ -86,6 +119,7 @@
 		</div>
 		</div>
 </div>
+
 </div>
 <div class="footer navbar-fixed-bottom">
           <div class="row footerpadding">
@@ -190,22 +224,27 @@
     </div>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script><script>
-var slideIndex = 1;
-showDivs(slideIndex);
-
-function plusDivs(n) {
-  showDivs(slideIndex += n);
+var z = document.getElementsByClassName("mySlides");
+for(var d =0; d<z.length;d++){
+	if((d+1)%2==1){
+	z[d].style.display = "block"; 
+	}else{
+	z[d].style.display = "none"; 
+	}
 }
 
-function showDivs(n) {
-  var i;
-  var x = document.getElementsByClassName("mySlides");
-  if (n > x.length) {slideIndex = 1}
-  if (n < 1) {slideIndex = x.length}
-  for (i = 0; i < x.length; i++) {
-    x[i].style.display = "none";  
-  }
-  x[slideIndex-1].style.display = "block";  
+function plusDivs(index) {
+  showDivs(index*2);
+}
+
+function showDivs(n) { 
+	if(	z[n].style.display == "block"){
+		z[n].style.display = "none";
+		z[n+1].style.display = "block"; 
+	 }else{
+	 z[n].style.display = "block"
+	 z[n+1].style.display = "none";
+	 }
 }
 </script>
 
