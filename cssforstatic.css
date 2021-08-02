@@ -179,21 +179,21 @@ border-radius:5px 0px 0px 5px;
 	border-bottom-width:8px;
 	border-bottom-color: #0E170F;
 	border-bottom-style:solid;
-	background-image: url(Image/home3.PNG);
+	background-image: url(Image/home3.png);
 	background-size: cover;
 }
 .bigimage2{
 	border-bottom-width:8px;
 	border-bottom-color: #0E170F;
 	border-bottom-style:solid;
-	background-image: url(Image/aboutus.PNG);
+	background-image: url(Image/aboutus.png);
 	background-size: cover;
 }
 .bigimage3{
 	border-bottom-width:8px;
 	border-bottom-color: #0E170F;
 	border-bottom-style:solid;
-	background-image: url(Image/productjumbotron2.PNG);
+	background-image: url(Image/productjumbotron2.png);
 	background-size: cover;
 	background-position: center;
  	background-repeat: no-repeat;
@@ -203,7 +203,7 @@ border-radius:5px 0px 0px 5px;
 	border-bottom-width:8px;
 	border-bottom-color: #0E170F;
 	border-bottom-style:solid;
-	background-image: url(Image/Servicesjumbotron3.PNG);
+	background-image: url(Image/Servicesjumbotron3.png);
 	background-size: cover;
 	background-position: center;
  	background-repeat: no-repeat;
