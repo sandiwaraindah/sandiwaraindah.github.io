@@ -203,7 +203,7 @@ border-radius:5px 0px 0px 5px;
 	border-bottom-width:8px;
 	border-bottom-color: #0E170F;
 	border-bottom-style:solid;
-	background-image: url(Image/Servicesjumbotron3.png);
+	background-image: url(Image/Servicesjumbotron4.png);
 	background-size: cover;
 	background-position: center;
  	background-repeat: no-repeat;
@@ -719,7 +719,12 @@ background-color:white!important
   animation-name: fade;
   animation-duration: 1.5s;
 }
-
+.video{
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+	margin-bottom:30px;
+}
 @-webkit-keyframes fade {
   from {opacity: .4}
   to {opacity: 1}
